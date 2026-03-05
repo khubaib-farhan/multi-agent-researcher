@@ -4,7 +4,7 @@ A multi-agent AI pipeline that uses **CrewAI** and **Google Gemini 2.5 Flash** t
 
 ---
 
-## 📖 Description
+## Description
 
 This notebook demonstrates how to build a collaborative multi-agent system where three specialized AI agents work together in sequence to produce a publication-ready blog post. Given just a topic, the crew researches, writes, and edits a full article autonomously.
 
@@ -103,6 +103,6 @@ The notebook includes a full sample run generating a detailed article on **"AI i
 
 ---
 
-## 📝 License
+## License
 
 This project is open for personal and educational use. Feel free to fork and adapt it for your own multi-agent workflows.
